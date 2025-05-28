@@ -7,5 +7,87 @@
             "All images loaded in porkporkporker/test project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://porkporkporker.github.io/test/images/khim5p5t4e3f1_LE_upscale_gentle_x4/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "khim5p5t4e3f1_LE_upscale_gentle_x4"
+                ]
+            },
+            "height": 2204,
+            "width": 2924,
+            "items": [
+                {
+                    "id": "https://porkporkporker.github.io/test/images/khim5p5t4e3f1_LE_upscale_gentle_x4/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://porkporkporker.github.io/test/images/khim5p5t4e3f1_LE_upscale_gentle_x4/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://porkporkporker.github.io/test/images/khim5p5t4e3f1_LE_upscale_gentle_x4/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 92,
+                                                "height": 69
+                                            },
+                                            {
+                                                "width": 183,
+                                                "height": 138
+                                            },
+                                            {
+                                                "width": 366,
+                                                "height": 276
+                                            },
+                                            {
+                                                "width": 731,
+                                                "height": 551
+                                            },
+                                            {
+                                                "width": 1462,
+                                                "height": 1102
+                                            },
+                                            {
+                                                "width": 2924,
+                                                "height": 2204
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2924,
+                                        "@id": "https://porkporkporker.github.io/test/images/khim5p5t4e3f1_LE_upscale_gentle_x4",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2204,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://porkporkporker.github.io/test/images/khim5p5t4e3f1_LE_upscale_gentle_x4/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
